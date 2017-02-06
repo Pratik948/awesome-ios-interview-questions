@@ -1,4 +1,4 @@
-# awesome-ios-interview-questions
+# 😎awesome-ios-interview-questions
 The curated list of iOS interview questions
 ## Swift
 - https://github.com/diwu/LeetCode-Solutions-in-Swift
