@@ -1,4 +1,4 @@
-# 😎awesome-ios-interview-questions
+# awesome-ios-interview-questions 😎
 The curated list of iOS interview questions
 ##Before You Go
 ### Design Patterns
@@ -15,4 +15,9 @@ The curated list of iOS interview questions
 - http://blog.udacity.com/2014/11/your-top-10-swift-questions-answered.html		
 - https://grokswift.com/interview-questions/		
 - http://datacalculation.blogspot.com.by/2014/09/best-ios-interview-questions-on-swift.html
+-
+-
+-
 
+## ObjC
+- https://www.codementor.io/mattgoldspink/ios-interview-tips-questions-answers-objective-c-du1088nfb
